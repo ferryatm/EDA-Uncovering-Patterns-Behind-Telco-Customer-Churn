@@ -16,13 +16,13 @@ In the telecom sector, customer churn can be influenced by a variety of factors,
 
 <b> Problem Statement </b>
 
-The problem provided by the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) can be defined as a binary classification task. The goal is to predict whether a customer will churn (discontinue the service) or stay, based on various features such as demographic data, customer account information, and service usage metrics.  
+The problem provided by the [problem and associated data](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) can be defined as a binary classification task. The goal is to predict whether a customer will churn (discontinue the service) or stay, based on various features such as demographic data, customer account information, and service usage metrics.  
 
 ---
 
 </b> Datasets and Inputs </b>
 
-The [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) consists of a single CSV file containing information on 7,043 customers. Each row represents a customer and includes various features related to demographics, service usage, and account details. The dataset contains the target variable **Churn**, with binary values:  
+The [dataset files](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) consists of a single CSV file containing information on 7,043 customers. Each row represents a customer and includes various features related to demographics, service usage, and account details. The dataset contains the target variable **Churn**, with binary values:  
 - **Yes**: The customer has churned.  
 - **No**: The customer has not churned.  
 
